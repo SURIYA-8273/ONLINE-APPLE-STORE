@@ -12,6 +12,8 @@ A sleek and modern Online Apple Store UI built with Flutter, inspired by Apple's
 
 ## 📸 Screenshots
 
+<img src="https://github.com/SURIYA-8273/ONLINE-APPLE-STORE/screenshots/home.png" width="400">
+
 ### 🏠 Home Screen
 ![Home Screen](screenshots/home.png)
 
