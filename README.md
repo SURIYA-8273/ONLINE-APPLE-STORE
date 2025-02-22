@@ -1,20 +1,34 @@
-<<<<<<< HEAD
-# online_apple_store
+📱 Online Apple Store – Flutter UI Design
+A sleek and modern Online Apple Store UI built with Flutter, inspired by Apple's minimalistic design. This project showcases a clean, responsive, and high-performance shopping experience for iPhone lovers.
 
-A new Flutter project.
+✨ Features:
+✅ Clean UI – Inspired by Apple’s design aesthetics
+✅ Responsive Layout – Optimized for all screen sizes
+✅ Flutter & Dart – Ensuring fast performance
 
-## Getting Started
+💡 Feel free to fork, star ⭐, and contribute!
 
-This project is a starting point for a Flutter application.
+#Flutter #UIDesign #Dart #MobileApp #Ecommerce #AppleStore
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🏠 Home Screen
+![Home Screen](screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# ONLINE-APPLE-STORE
->>>>>>> 4b64aae9e8e9bac2c71b035efb58559d1362f74a
+### 🛒 Cart Screen
+![Cart Screen](screenshots/cart.png)
+
+### ⭐ Favorite Screen
+![Favorite Screen](screenshots/favourite.png)
+
+### 🔍 Filter Screen
+![Filter Screen](screenshots/filter.png)
+
+### 📄 Product Detail Screen
+![Product Detail](screenshots/productDetail.png)
+
+### ⚙️ Settings Screen
+![Settings](screenshots/setting.png)
+
+### 📂 Side Menu
+![Side Menu](screenshots/sidemenu.png)
