@@ -10,27 +10,4 @@ A sleek and modern Online Apple Store UI built with Flutter, inspired by Apple's
 
 #Flutter #UIDesign #Dart #MobileApp #Ecommerce #AppleStore
 
-## 📸 Screenshots
 
-<img src="https://github.com/SURIYA-8273/ONLINE-APPLE-STORE/tree/main/screenshots/home.png" width="600" height="1000">
-
-### 🏠 Home Screen
-![Home Screen](screenshots/home.png)
-
-### 🛒 Cart Screen
-![Cart Screen](screenshots/cart.png)
-
-### ⭐ Favorite Screen
-![Favorite Screen](screenshots/favourite.png)
-
-### 🔍 Filter Screen
-![Filter Screen](screenshots/filter.png)
-
-### 📄 Product Detail Screen
-![Product Detail](screenshots/productDetail.png)
-
-### ⚙️ Settings Screen
-![Settings](screenshots/setting.png)
-
-### 📂 Side Menu
-![Side Menu](screenshots/sidemenu.png)
