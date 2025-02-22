@@ -15,7 +15,7 @@ A sleek and modern Online Apple Store UI built with Flutter, inspired by Apple's
     <td colspan="3" align="center">
       <img src="https://github.com/SURIYA-8273/ONLINE-APPLE-STORE/blob/main/screenshots/home.png?raw=true" width="250">
       
-    </td>
+    
   </tr>
   <tr>
     <td><img src="https://github.com/SURIYA-8273/ONLINE-APPLE-STORE/blob/main/screenshots/sidemenu.png?raw=true" width="250"></td>
